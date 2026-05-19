@@ -18,3 +18,5 @@ six==1.17.0
 sv-ttk==2.6.1
 tzdata==2025.3
 zipp==3.23.0
+voila
+ipywidgets
